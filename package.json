@@ -1,8 +1,12 @@
 {
-  "name": "livereload",
-  "description": "LiveReload server",
-  "version": "0.6.0",
+  "name": "livereload-xl",
+  "description": "LiveReload-XL Server with Callbacks",
+  "version": "0.7.0",
   "contributors": [
+    {
+      "name": "Alistair MacDonald",
+      "email": "al@pwn.io"
+    },
     {
       "name": "Brian P. Hogan",
       "email": "brianhogan@napcs.com"
@@ -16,7 +20,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/napcs/node-livereload.git"
+    "url": "http://github.com/f1lt3r/node-livereload.git"
   },
   "bin": {
     "livereload": "./bin/livereload.js"
